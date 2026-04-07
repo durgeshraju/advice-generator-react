@@ -13,7 +13,10 @@ This project focuses on:
 The goal is not just to recreate the UI, but to rebuild the app in a more maintainable and production-friendly way using React.
 
 
+````md
 ## Folder Structure
+
+```text
 
 src/
 ├─ app/
@@ -36,6 +39,8 @@ src/
 │     └─ index.js
 └─ shared/
    └─ utils/
+   
+```
 
 ### Structure Philosophy
 
