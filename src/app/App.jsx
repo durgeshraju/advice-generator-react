@@ -1,8 +1,10 @@
+import { AdviceCard } from "../features/advice";
+
 const App = () => {
   return (
-    <>
-      <h1>App component</h1>
-    </>
+    <main className="container">      
+      <AdviceCard />
+    </main>
   )
 }
 
